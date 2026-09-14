@@ -1,4 +1,4 @@
-# Prácticas Preprofesionales — Backend
+# Prácticas Preprofesionales — Backend - Prest
 
 > API de gestión de prácticas preprofesionales: ofertas, postulaciones, libro de horas y acreditación.
 
